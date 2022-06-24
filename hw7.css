@@ -1,0 +1,27 @@
+h1,h2 {
+    color: rgb(49, 197, 57);
+}
+
+p {
+    color: rgb(36, 33, 190);
+}
+
+ul {
+    border: 20px dotted orange;
+}
+
+ol {
+    border: 2px solid purple;
+}
+
+ol,ul {
+    padding: 30px 60px;
+    border-radius: 20%;
+}
+h1, strong {
+color: purple;
+}
+
+em {
+color: gray;
+}
