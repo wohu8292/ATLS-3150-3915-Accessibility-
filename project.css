@@ -1,0 +1,32 @@
+.donate-header{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: rgb(25, 129, 33);
+    color: white;
+    text-decoration: none;
+}
+
+.donate-header:hover{
+    background-color: rgb(7, 53, 21);
+    color: white;
+}
+
+.middle_heading{
+    background-color: rgb(40, 33, 150);
+    color: aliceblue;
+    padding: 15px;
+}
+
+.btn-calendar{
+    color: black;
+    text-decoration: none;
+}
+
+.add_info{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.add_info li{
+    list-style: none;
+}
