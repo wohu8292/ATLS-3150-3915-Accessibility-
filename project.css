@@ -92,3 +92,13 @@
 .send:focus{
     outline:2px solid white;
 }
+
+.askdon{
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.submit:focus{
+    outline: 2px solid black;
+}
